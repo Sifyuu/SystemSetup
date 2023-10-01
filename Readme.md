@@ -44,11 +44,19 @@ eww:  https://github.com/elkowar/eww
 
 # Reference
 https://hyprland.org/rices
+
 https://github.com/end-4/dots-hyprland
+
 https://github.com/sameemul-haque/dotfiles
+
 https://github.com/linuxmobile/hyprland-dots/tree/Sakura
+
 https://github.com/BHlmaoMSD/dotfiles
+
 https://github.com/maxtaran2010/hyprland-rice
+
 https://github.com/kosorin/awesome-rice
+
 https://github.com/Aylur/dotfiles
+
 https://www.reddit.com/r/hyprland/comments/14jv7hw/hyprland_and_eww_widgets_helpful_info/
