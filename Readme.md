@@ -1,5 +1,7 @@
 # Systems
 ## Core Applications
+Desktop:                Plasma Desktop              https://kde.org/plasma-desktop/
+
 Window tiling manager:  Hyprland                    https://github.com/hyprwm/Hyprland
 
 Panel:                  WayBar                      https://github.com/Alexays/Waybar
@@ -21,7 +23,7 @@ Clipboard History Manager: Cliphist                     https://github.com/sentr
 
 Screen lock:               Swaylock Effects             https://github.com/mortie/swaylock-effects
 
-Notification daemon:      Dunst                         https://github.com/dunst-project/dunst
+Notification daemon:       Dunst                        https://github.com/dunst-project/dunst
 
 Screenshot app:            Hyprshot                     https://github.com/Gustash/Hyprshot
 
